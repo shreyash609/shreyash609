@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyash Sarve</h1>
 <h3 align="center">A passionate FullStack Java developer from India</h3>
-
-- 🔭 I’m currently working on **Insaurance Domain Project**
-
-- 🌱 I’m currently learning **Microservices,AWS**
-
-- 💬 Ask me about **Core Java,SpringBoot,Oracle**
+- 💬 Ask me about **Core Java,SpringBoot**
 
 - 📫 How to reach me **shreyash.sarve04@gmail.com**
 
